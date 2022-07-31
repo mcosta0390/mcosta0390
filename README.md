@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Michelle Costa
 
 - 🔭 Atualmente sou estudante
-- 🌱 Cursando Análise e Desenvolvimento de Sistemas na FIAP
+- 🌱 Cursando Análise e Desenvolvimento de Sistemas (ADS) na FIAP
 - 😄 Pronomes: ela/ dela
 
 <div align="center">
